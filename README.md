@@ -1,4 +1,4 @@
-[![Docker Pulls](https://img.shields.io/docker/pulls/hopsoft/graphite-statsd.svg?style=flat)](https://hub.docker.com/r/hopsoft/graphite-statsd/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mashape/kong.svg)](https://hub.docker.com/r/dem0stenes/docker-graphite-statsd/)
 
 # Docker Image for Graphite & Statsd
 
